@@ -1,0 +1,143 @@
+{
+  "project_info": {
+    "project_number": "170723908875",
+    "firebase_url": "https://fir-chatapp-6b972.firebaseio.com",
+    "project_id": "fir-chatapp-6b972",
+    "storage_bucket": "fir-chatapp-6b972.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170723908875:android:d711ade5070076ff",
+        "android_client_info": {
+          "package_name": "com.trivediinfoway.firebasechatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170723908875-1f2dbqrbbgrojipec2basubgalmgetcf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trivediinfoway.firebasechatapp",
+            "certificate_hash": "66e9a427b09227a0d2bcaa6d4d8e5cef3ac4ea53"
+          }
+        },
+        {
+          "client_id": "170723908875-9r86t1fleof78eqgtro7gb52murtalr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgPUMOqZAACJ0b6pGjvNxNCJqtYeb0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170723908875-9r86t1fleof78eqgtro7gb52murtalr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170723908875:android:28e4b51ba8fceb53",
+        "android_client_info": {
+          "package_name": "gdg.androidtitlan.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170723908875-bm45fc6svd345m8utabei4lti1hsjckv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gdg.androidtitlan.firebase",
+            "certificate_hash": "66e9a427b09227a0d2bcaa6d4d8e5cef3ac4ea53"
+          }
+        },
+        {
+          "client_id": "170723908875-9r86t1fleof78eqgtro7gb52murtalr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgPUMOqZAACJ0b6pGjvNxNCJqtYeb0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170723908875-9r86t1fleof78eqgtro7gb52murtalr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:170723908875:android:44941d586b3d45b7",
+        "android_client_info": {
+          "package_name": "com.trivediinfoway.gcmtest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "170723908875-u3mbs174jop4mo37v3j3qjgu8qel70g1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.trivediinfoway.gcmtest",
+            "certificate_hash": "66e9a427b09227a0d2bcaa6d4d8e5cef3ac4ea53"
+          }
+        },
+        {
+          "client_id": "170723908875-9r86t1fleof78eqgtro7gb52murtalr4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCOgPUMOqZAACJ0b6pGjvNxNCJqtYeb0kA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "170723908875-9r86t1fleof78eqgtro7gb52murtalr4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
